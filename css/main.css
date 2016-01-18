@@ -1,0 +1,21 @@
+/* Escribe tu css aqui */
+div {
+	height:100px;
+	display: block;
+}
+.amarillo {
+	background: yellow;
+}
+
+.rojo {
+	background: red;
+}
+
+.parte2 {
+	width: 300px;
+	margin: 10px;
+}
+
+.float {
+	float: left;
+}

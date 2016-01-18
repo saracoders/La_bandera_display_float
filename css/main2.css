@@ -1,0 +1,17 @@
+/* Escribe tu css aqui */
+div {
+	height:100px;
+	display: inline;
+}
+.amarillo {
+	background: yellow;
+}
+
+.rojo {
+	background: red;
+}
+
+.parte4 {
+	width: 300px;
+	margin: 10px;
+}
